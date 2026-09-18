@@ -1,1 +1,1 @@
-# java-order-management-system
+A console-based Java order management system built to practice object-oriented design, encapsulation, composition, inheritance, polymorphism, interfaces, and dependency injection.
